@@ -4,7 +4,7 @@ Dear Learner,
 
 due to dependecies or product updates, you could potentially run into some issues from time to time.
 
-Before posting a question in our [SAP Learning Group](https://groups.community.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning), please **read** this troubleshooting guide **carefully**.
+Before posting a question in our [SAP Learning Group](https://groups.commudnity.sap.com/t5/sap-learning-groups/ct-p/SAP-Learning), please **read** this troubleshooting guide **carefully**.
 
 First and foremost, make sure to check your cds version:
 
